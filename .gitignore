@@ -1,0 +1,5 @@
+# Virtual Environment
+.venv/
+
+# Temporary files
+commit_message.txt
