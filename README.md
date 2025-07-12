@@ -14,7 +14,7 @@ A simple Windows utility to quickly save an image from your clipboard to a file 
 
 - Windows operating system
 - Python 3
-- The following Python packages:
+- Python packages (see `requirements.txt` for exact versions):
   - `Pillow`
   - `pynput`
   - `pystray`
@@ -26,7 +26,7 @@ A simple Windows utility to quickly save an image from your clipboard to a file 
 
 2. **Install the required packages:**
    ```bash
-   pip install Pillow pynput pystray pyperclip
+   pip install -r requirements.txt
    ```
 
 ## Usage
